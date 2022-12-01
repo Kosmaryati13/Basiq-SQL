@@ -1,5 +1,5 @@
 --Import File CSV--
---Sumber https://www.w3schools.com/sql/default.asp dan Skill Academy--
+--Sumber Kelas Skill Academy--
 --Learn How to Use SELECT, FROM, LIMIT, WHERE--
 SELECT * FROM DataHR 					--Mengambil semua data pada Tabel DataHR--
 SELECT * FROM DataHR LIMIT 5 			--Mengambil 5 Data Pertama--
